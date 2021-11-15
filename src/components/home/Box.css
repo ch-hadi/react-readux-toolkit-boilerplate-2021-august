@@ -1,0 +1,47 @@
+.card {
+    width: 30%;
+    height: 390px;
+    background-color: aqua;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    align-items: center !important;
+    justify-content: space-around;
+}
+
+.inner-div-for-range-section {
+    width: 30% !important;
+    justify-content: space-around;
+}
+
+.label-adjustment {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type="range"] {
+    width: 100%;
+}
+
+.label-text-size {
+    font-size: 14px !important;
+}
+
+.length-value {
+    width: 30px;
+    height: 20px;
+    border: 1px solid;
+    font-size: 12px;
+    padding-left: 2px;
+}
+
+.span-setting {
+    margin-left: 10px;
+}
+
+.value-box-setting {
+    display: flex;
+}
