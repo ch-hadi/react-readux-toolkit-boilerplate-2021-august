@@ -10,9 +10,11 @@
     align-items: center !important;
     justify-content: space-around;
 }
-
+.container-for-ranges{
+    width: 30%;
+}
 .inner-div-for-range-section {
-    width: 30% !important;
+    width: 100% !important;
     justify-content: space-around;
 }
 
